@@ -1,3 +1,9 @@
+<!--
+This is a comment block.
+It won't show up in the rendered HTML documentation.
+You can add multiple lines of text here.
+
+
 # More features here
 
 
@@ -49,3 +55,5 @@ a^2 + b^2 = c^2
 ```
 
 This is an in-line equation, {math}`a^2 + b^2 = c^2`, embedded in text.
+-->
+
