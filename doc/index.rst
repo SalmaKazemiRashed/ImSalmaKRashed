@@ -5,7 +5,7 @@
 Salma Kazemi Rashed
 ===================================
 
-.. image:: _static/image.jpg
+.. image:: ./image.jpg
    :alt: ""
    :width: 120px
    :align: right
