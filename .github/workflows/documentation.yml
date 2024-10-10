@@ -27,7 +27,7 @@ jobs:
       # Step 4: Build Sphinx documentation
       - name: Sphinx build
         run: |
-          sphinx-build docs _build/html  # Adjust this path if your source folder is different
+          sphinx-build doc _build/html  # Adjust this path if your source folder is different
 
       # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
