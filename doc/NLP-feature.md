@@ -5,9 +5,7 @@ Automated information extraction using natural language processing (NLP) tools i
 
 
 
-
 [paper](https://arxiv.org/abs/2003.09865)
-
 
 [Code](https://github.com/Aitslab/corona.git)
 
