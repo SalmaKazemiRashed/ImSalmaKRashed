@@ -1,4 +1,4 @@
-name: documentation
+name: Documentation
 
 on: [push, pull_request, workflow_dispatch]
 
@@ -8,20 +8,33 @@ permissions:
 jobs:
   docs:
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: Checkout the repository
       - uses: actions/checkout@v4
+
+      # Step 2: Set up Python environment
       - uses: actions/setup-python@v5
+        with:
+          python-version: '3.9.18'  # Replace '3.x' with the specific version you need, e.g., '3.12'
+
+      # Step 3: Install dependencies
       - name: Install dependencies
         run: |
+          python -m pip install --upgrade pip  # Upgrade pip to the latest version
           pip install sphinx sphinx_rtd_theme myst_parser
+
+      # Step 4: Build Sphinx documentation
       - name: Sphinx build
         run: |
-          sphinx-build doc _build
+          sphinx-build docs _build/html  # Adjust this path if your source folder is different
+
+      # Step 5: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
         with:
-          publish_branch: S_pages
+          publish_branch: S_pages  # Branch to deploy to GitHub Pages
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: _build/
-          force_orphan: true
+          publish_dir: _build/html  # Make sure this matches the output directory of sphinx-build
+          force_orphan: true  # Correctly specified as a boolean
