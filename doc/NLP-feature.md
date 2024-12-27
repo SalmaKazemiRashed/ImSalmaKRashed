@@ -9,3 +9,11 @@ Automated information extraction using natural language processing (NLP) tools i
 [Code](https://github.com/Aitslab/corona.git)
 
 
+
+In our group, we have developed AI-based text mining tools that can be used to extract and combine information from all accessible medical scientific literature. With this, we have analysed all accessible biomedical literature in PubMed (almost 40 million entries) to extract relevant biomedical entities, e.g. cells, diseases, chemicals, species, genes/proteins, and their relations. Based on this a cell death knowledge graph and similar knowledge graphs for COVID-19 and other diseases are being assembled. The preprints and the associated AI tools are already published.
+
+[paper](https://arxiv.org/abs/2304.07805)
+
+[Code](https://github.com/Aitslab/EasyNER)
+
+
