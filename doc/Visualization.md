@@ -7,4 +7,4 @@ editor. The code and pdf file are publicly available.
 [Code](https://github.com/SalmaKazemiRashed/Poster.git)
 
 
-[paper](https://ieeexplore.ieee.org/abstract/document/10822022)
+[Paper](https://ieeexplore.ieee.org/abstract/document/10822022)
