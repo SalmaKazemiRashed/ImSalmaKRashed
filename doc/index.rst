@@ -10,12 +10,7 @@ Salma Kazemi Rashed
    :width: 120px
    :align: right
 
-About me- I'm committed to hard work and continuous learning, with a particular passion for  programming and machine learning. 
-With two Master's degrees in Electrical Engineering and Bioinformatics, I've honed skills in Mathematics, Statistics, and AI/ML.
-My expertise lies in crafting innovative models for analyzing various datasets. Throughout my PhD, I played a central role in diverse applied ML projects,
-from genome-wide cell screening and histopathology to biomedical text mining using natural language models, consistently innovating to meet project goals.
-My primary aim is to make impactful contributions to real-world challenges using AI/ML. Motivated by my passion for refining existing algorithms and 
-innovating new ones, I strive to drive progress in this field, inspired by the unwavering support of my loving family, including my daughter and husband.
+About me- I am a dedicated and curious engineer with a strong foundation in programming, machine learning, and data-driven problem-solving. Holding dual Master’s degrees in Electrical Engineering and Bioinformatics, I have developed solid expertise in mathematics, statistics, and AI/ML model development. During my Ph.D., I led multiple applied machine learning projects involving large-scale data analysis, computer vision, and natural language processing. My work focused on designing and optimizing models to extract insights from complex datasets, implementing scalable pipelines, and ensuring reproducibility through robust engineering practices. I am deeply motivated to apply advanced AI and ML techniques to solve real-world challenges, continuously improving algorithms and developing innovative solutions that drive technological progress.
 
 .. toctree::
    :maxdepth: 1
@@ -26,6 +21,7 @@ innovating new ones, I strive to drive progress in this field, inspired by the u
    new-feature   
    some-feature
    NLP-feature
+   RAG-feature
    Course-feature
    Visualization
 
