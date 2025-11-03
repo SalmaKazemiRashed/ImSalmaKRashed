@@ -21,7 +21,7 @@ About me- I am a dedicated and curious engineer with a strong foundation in prog
    new-feature   
    some-feature
    NLP-feature
-   RAG-feature
+   RAG-feature 
    Course-feature
    Visualization
 
