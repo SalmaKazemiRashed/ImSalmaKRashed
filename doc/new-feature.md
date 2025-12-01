@@ -8,6 +8,6 @@ In image-based studies like cell research, crucial information in cell objects m
 [In-house citizen science annotation tool](https://github.com/SalmaKazemiRashed/Online_Game.git)
 
 [Genome-wide Nuclei Segmentation](https://github.com/SalmaKazemiRashed/Cell_Microscopy_project.git)
-[conference paper](https://ieeexplore.ieee.org/abstract/document/10822022)
+[(conference paper)](https://ieeexplore.ieee.org/abstract/document/10822022)
 
 [Generate cells from only nuclei channel](https://github.com/SalmaKazemiRashed/Generative_microscopic_cells.git)
