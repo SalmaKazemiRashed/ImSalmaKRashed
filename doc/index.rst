@@ -24,7 +24,7 @@ About me- I am a dedicated and curious engineer with a strong foundation in prog
    RAG-feature 
    Course-feature
    Visualization
-   RL-control-project
+   VLA-RL-control-project
 
 
 
