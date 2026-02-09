@@ -15,3 +15,8 @@ In a short [project](https://github.com/SalmaKazemiRashed/RL_control_project) I 
 - Simulation-to-Real Insights: By replaying and analyzing joint-level data, this repository helps quantify control performance, explore failure modes, and reduce the sim-to-real gap in humanoid robotics.
 
 This project serves as a hands-on platform for understanding the interaction between learning-based models, low-level control, and physical constraints, providing a foundation for developing general-purpose, adaptive robotic systems.
+
+
+Vision–Language–Action (VLA) RL Extension
+==============
+The framework is extended toward Vision–Language–Action (VLA) Reinforcement Learning, where the humanoid policy is conditioned on visual observations, language-level task goals, and joint-state feedback. Visual inputs from PyBullet cameras and language embeddings are fused into the RL observation space, enabling language-guided, multimodal control. The learned policy outputs high-level motor commands that are executed through existing PID joint controllers, preserving physical realism while supporting generalizable, task-conditioned humanoid behaviors.
