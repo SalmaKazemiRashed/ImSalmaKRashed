@@ -25,6 +25,7 @@ About me- I am a dedicated and curious engineer with a strong foundation in prog
    Course-feature
    Visualization
    VLA-RL-control-project
+   Churn-Prediction
 
 
 
