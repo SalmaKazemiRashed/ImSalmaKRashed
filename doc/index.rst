@@ -10,7 +10,7 @@ Salma Kazemi Rashed
    :width: 120px
    :align: right
 
-About me- I am a dedicated and curious engineer with a strong foundation in programming, machine learning, and data-driven problem-solving. Holding dual Master’s degrees in Electrical Engineering and Bioinformatics, I have developed solid expertise in mathematics, statistics, and AI/ML model development. During my Ph.D., I led multiple applied machine learning projects involving large-scale data analysis, computer vision, and natural language processing. My work focused on designing and optimizing models to extract insights from complex datasets, implementing scalable pipelines, and ensuring reproducibility through robust engineering practices. I am deeply motivated to apply advanced AI and ML techniques to solve real-world challenges, continuously improving algorithms and developing innovative solutions that drive technological progress.
+About me- I am a dedicated and curious engineer with a strong foundation in programming, machine learning, and data-driven problem-solving. Holding dual Master’s degrees in Electrical Engineering and Bioinformatics, I have developed solid expertise in mathematics, statistics, and AI/ML model development. During my Ph.D., I led multiple applied machine learning projects involving large-scale data analysis, computer vision, and natural language processing, focusing on designing and optimizing models to extract insights from complex datasets, implementing scalable pipelines, and ensuring reproducibility through robust engineering practices. I have also recently been actively involved in business and customer-focused applications, developing AI agents, large language model (LLM) systems, and API-based solutions. I am deeply motivated to apply advanced AI and ML techniques to solve real-world challenges, continuously improving algorithms and creating innovative solutions that drive technological progress.
 
 .. toctree::
    :maxdepth: 1
@@ -26,6 +26,7 @@ About me- I am a dedicated and curious engineer with a strong foundation in prog
    Visualization
    VLA-RL-control-project
    Churn-Prediction
+   AI-agents
 
 
 
