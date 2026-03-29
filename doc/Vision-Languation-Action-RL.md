@@ -1,4 +1,4 @@
-RL control project 
+Reinforcement Learning control project 
 ==============
 Humanoid Robot Simulation and Control
 
