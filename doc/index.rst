@@ -25,7 +25,7 @@ About me- I am a dedicated and curious engineer with a strong foundation in prog
    Course-feature
    Visualization
    Vision-Languation-Action-RL
-   Churn-Prediction
+   Google-Cloud-ML
    AI-agents
 
 
