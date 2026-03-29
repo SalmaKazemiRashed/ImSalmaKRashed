@@ -24,7 +24,7 @@ About me- I am a dedicated and curious engineer with a strong foundation in prog
    RAG-feature 
    Course-feature
    Visualization
-   VLA-RL-control-project
+   Vision-Languation-Action-RL
    Churn-Prediction
    AI-agents
 
