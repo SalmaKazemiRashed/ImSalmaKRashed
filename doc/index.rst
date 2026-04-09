@@ -21,6 +21,7 @@ More recently, I have expanded into business- and user-focused applications, dev
 
    
    new-feature   
+   neo4j-graph-database
    some-feature
    NLP-feature
    RAG-feature 
