@@ -2,12 +2,12 @@ Protein Experiment Control & Data System
 ==================
 A hands-on project on control and Data system integration with tech stack of 
 
-Python (FastAPI, aiokafka)
-Kafka
-Chart.js
-Docker
-Machine Learning (PyTorch / simple model)
-Neo4j (still an issue)
+* Python (FastAPI, aiokafka)
+* Kafka
+* Chart.js
+* Docker
+* Machine Learning (PyTorch / simple model)
+* Neo4j (still an issue)
 
 ### Features
 - Simulated experimental protein signals (angle, intensity) as process variables
