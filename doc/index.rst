@@ -27,7 +27,7 @@ More recently, I have expanded into business- and user-focused applications, dev
    RAG-feature 
    Course-feature
    Visualization
-   Protein-Exp-Control-Data-system.md
+   Protein-Exp-Control-Data-system
    Vision-Languation-Action-RL
    Google-Cloud-ML
    AI-agents
