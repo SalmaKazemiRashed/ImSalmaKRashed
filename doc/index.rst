@@ -28,6 +28,7 @@ PhD Research Projects
    some-feature
    NLP-feature
    Course-feature
+   Visualization
 
 
 Generative AI and Agents
