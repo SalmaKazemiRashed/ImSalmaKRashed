@@ -19,18 +19,18 @@ More recently, I have expanded into realworld- and user-focused applications, de
    :caption: Projects
 
 
-   ** PhD research projects:
+   ## PhD research projects:
    new-feature   
    neo4j-graph-database
    some-feature
    NLP-feature
    Course-feature
 
-   ** Generative AI and AI agents:
+   ## Generative AI and AI agents:
    RAG-feature 
    AI-agents
 
-   ** Data, cloud and control systems 
+   ## Data, cloud and control systems 
    Protein-Exp-Control-Data-system
    Vision-Languation-Action-RL
    Google-Cloud-ML
