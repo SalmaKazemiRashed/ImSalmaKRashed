@@ -38,6 +38,8 @@ Generative AI and Agents
 
    RAG-feature
    AI-agents
+   MCP
+   Multi-Agent-system
 
 
 Data, Cloud and Control Systems
@@ -49,6 +51,7 @@ Data, Cloud and Control Systems
    Protein-Exp-Control-Data-system
    Vision-Languation-Action-RL
    Google-Cloud-ML
+   Edge-Time-series
    
 
 
