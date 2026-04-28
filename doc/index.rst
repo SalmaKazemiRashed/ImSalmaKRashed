@@ -14,23 +14,38 @@ About me-I am a soon-to-be PhD in data science (AI/ML engineer) with a strong fo
 
 More recently, I have expanded into realworld- and user-focused applications, developing AI agents, large language model (LLM) systems, and API-based solutions as well as data engineering piplelines and cloud. I am highly motivated to apply advanced AI and machine learning techniques to real-world challenges, continuously refining algorithms and creating innovative, data-driven solutions that drive both scientific discovery and practical impact across technology and data-driven domains.
 
+Projects
+========
+
+PhD Research Projects
+---------------------
+
 .. toctree::
    :maxdepth: 1
-   :caption: Projects
 
-
-   ## PhD research projects:
-   new-feature   
+   new-feature
    neo4j-graph-database
    some-feature
    NLP-feature
    Course-feature
 
-   ## Generative AI and AI agents:
-   RAG-feature 
+
+Generative AI and Agents
+---------------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   RAG-feature
    AI-agents
 
-   ## Data, cloud and control systems 
+
+Data, Cloud and Control Systems
+-------------------------------
+
+.. toctree::
+   :maxdepth: 1
+
    Protein-Exp-Control-Data-system
    Vision-Languation-Action-RL
    Google-Cloud-ML
