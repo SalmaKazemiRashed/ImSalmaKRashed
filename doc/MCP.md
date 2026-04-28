@@ -1,0 +1,3 @@
+ As part of Agentic AI journey, I’ve explored building systems that allow AI to interact with code repositories, as in [here](https://github.com/SalmaKazemiRashed/RepoPilot-MCP)
+, an open-source Python implementation of a Model Context Protocol (MCP) server. This server lets an AI assistant explore and manage a GitHub repository programmatically—listing files, reading contents, checking repository stats, and even creating issues through the GitHub API. It acts as a bridge between an AI agent and GitHub, processing JSON-based requests and returning structured results, enabling richer, automated repository interactions.
+
