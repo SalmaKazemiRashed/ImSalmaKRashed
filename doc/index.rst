@@ -49,6 +49,7 @@ Data, Cloud and Control Systems
 .. toctree::
    :maxdepth: 1
 
+   protein-lakehouse
    Protein-Exp-Control-Data-system
    Vision-Languation-Action-RL
    Google-Cloud-ML
